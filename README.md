@@ -18,6 +18,11 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 
 - [TCNN: Triple Convolutional Neural Network Models for Retrieval-based Question Answering System in E-commerce.](https://arxiv.org/pdf/2004.10919.pdf), *Shuangyong Song, Chao Wang, Haiqing Chen, Huan Chen.* WWW 2020 | Alibaba | [NLP]
 
+- [Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation.](https://arxiv.org/abs/1906.04473), *Fajie Yuan, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, Yilin Xiong.* WWW 2020 | Tencent | [Search & Recommend]
+
+- [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236), *Hongyan Tang, Junning  Liu,
+Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
+
 ### 2019
 - [Exact-K Recommendation via Maximal Clique Optimization](https://arxiv.org/abs/1905.07089), *Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu.* KDD 2019 | Alibaba | [Search & Recommend]
 
@@ -131,6 +136,12 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 
 
 ### Tencent
+
+- [Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation.](https://arxiv.org/pdf/2004.10919.pdf), *Fajie Yuan, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, Yilin Xiong.* WWW 2020 | Tencent | [Search & Recommend]
+
+- [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236), *Hongyan Tang, Junning  Liu,
+Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
+
 - [WSISA: Making Survival Prediction from Whole Slide Histopathological Images](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_WSISA_Making_Survival_CVPR_2017_paper.pdf), *Xinliang Zhu, Jiawen Yao, Feiyun Zhu, and Junzhou Huang.* CVPR 2017 | Tencent | [CV]
 
 
@@ -180,7 +191,12 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 ### WWW
 - [TCNN: Triple Convolutional Neural Network Models for Retrieval-based Question Answering System in E-commerce.](https://arxiv.org/pdf/2004.10919.pdf), *Shuangyong Song, Chao Wang, Haiqing Chen, Huan Chen.* WWW 2020 | Alibaba | [NLP]
 
+- [Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation.](https://arxiv.org/pdf/2004.10919.pdf), *Fajie Yuan, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, Yilin Xiong.* WWW 2020 | Tencent | [Search & Recommend]
+
 ### RecSys
+- [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236), *Hongyan Tang, Junning  Liu,
+Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
+
 - [Deep Neural Network for YouTube Recommendation](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190), *Paul  Covington,Jay  Adams, Emre Sargin.* RecSys 2016 | Google | [Search & Recommend]
 
 
@@ -192,6 +208,11 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
   for Web-scale Recommender Systems](https://arxiv.org/pdf/2005.10110), *Menghan, Wang and Yujie, Lin and Guli, Lin and Keping, Yang and Xiao-ming, Wu.* KDD 2020 | Alibaba | [Search & Recommend]
 
 - [Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps](https://static.aminer.cn/upload/pdf/917/311/1295/5f03f3b611dc8305622320ce_0.pdf), *Huang, Jizhou and Wang, Haifeng and Fan, Miao and Zhuo, An and Li, Ying.* KDD 2020 | Baidu | [Search & Recommend]
+
+- [Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation.](https://arxiv.org/pdf/2004.10919.pdf), *Fajie Yuan, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, Yilin Xiong.* WWW 2020 | Tencent | [Search & Recommend]
+
+- [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236), *Hongyan Tang, Junning  Liu,
+Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 
 - [Exact-K Recommendation via Maximal Clique Optimization](https://arxiv.org/abs/1905.07089), *Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu.* KDD 2019 | Alibaba | [Search & Recommend]
 
