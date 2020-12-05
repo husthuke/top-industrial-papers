@@ -13,6 +13,8 @@
 
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://arxiv.org/pdf/1911.10516v1.pdf), *Weijia Zhang1, Hao Liu2, Yanchi Liu3, Jingbo Zhou2, Hui Xiong.* AAAI 2020 | Baidu | [Combination & Optimization]
 
+- [Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/pdf/1909.03602.pdf), *Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang,Xiaobing Liu, Xiwang Yang, Jiliang Tang1.* AAAI 2020 | Bytedance | [Search & Recommend]
+
 - [AliMe KG: Domain Knowledge Graph Construction and
 Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Hehong Chen, Guohai Xu, Tian Qiu, Feng Ji, Ji Zhang, Haiqing Chen.* CIKM 2020 | Alibaba | [NLP]  
 
@@ -39,6 +41,8 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 - [AliMe KBQA: Question Answering over Structured Knowledge for E-Commerce Customer Service](https://arxiv.org/pdf/1912.05728.pdf), *Feng-Lin Li, Weijia Chen, Qi Huang, Yikun Guo* CCKS 2019 | Alibaba | [NLP]
 
 - [Latent Network Summarization: Bridging Network Embedding and Summarization](https://arxiv.org/abs/1811.04461), *Di Jin, Ryan Rossi, Danai Koutra, Eunyee Koh, Sungchul Kim, Anup Rao.* KDD 2019 | Adobe | [NLP]
+
+- [Top-𝐾 Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf), *Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi.* WSDM 2019 | Google | [Search & Recommend]
 
 ### 2018
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://dl.acm.org/ft_gateway.cfm?id=3219885&type=pdf), *Grbovic, Mihajlo, and Haibin Cheng.* KDD 2018 | Airbnb | [Search & Recommend]
@@ -102,6 +106,9 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://arxiv.org/pdf/1911.10516v1.pdf), *Weijia Zhang1, Hao Liu2, Yanchi Liu3, Jingbo Zhou2, Hui Xiong.* AAAI 2020 | Baidu | [Combination & Optimization]
 
 
+### Bytedance
+- [Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/pdf/1909.03602.pdf), *Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang,Xiaobing Liu, Xiwang Yang, Jiliang Tang1.* AAAI 2020 | Bytedance | [Search & Recommend]
+
 ### DiDi
 - [Efficient Large-Scale Fleet Management via Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1802.06444), *Kaixiang Lin, Renyu Zhao, Zhe Xu, Jiayu Zhou.* KDD 2018 | DiDi | [Combination & Optimization]
 
@@ -113,6 +120,8 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 
 
 ### Google
+- [Top-𝐾 Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf), *Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi.* WSDM 2019 | Google | [Search & Recommend]
+
 
 - [Deep Neural Network for YouTube Recommendation](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190), *Paul  Covington,Jay  Adams, Emre Sargin.* RecSys 2016 | Google | [Search & Recommend]
 
@@ -150,6 +159,7 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 ### AAAI
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://arxiv.org/pdf/1911.10516v1.pdf), *Weijia Zhang1, Hao Liu2, Yanchi Liu3, Jingbo Zhou2, Hui Xiong.* AAAI 2020 | Baidu | [Combination & Optimization]
 
+- [Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/pdf/1909.03602.pdf), *Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang,Xiaobing Liu, Xiwang Yang, Jiliang Tang1.* AAAI 2020 | Bytedance | [Search & Recommend]
 
 ### KDD
 - [M2GRL: A Multi-task Multi-view Graph Representation Learning Framework
@@ -199,6 +209,9 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 
 - [Deep Neural Network for YouTube Recommendation](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190), *Paul  Covington,Jay  Adams, Emre Sargin.* RecSys 2016 | Google | [Search & Recommend]
 
+### Other
+- [Top-𝐾 Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf), *Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi.* WSDM 2019 | Google | [Search & Recommend]
+
 
 
 ## 按领域分类
@@ -206,6 +219,8 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 ### Search & Recommend
 - [M2GRL: A Multi-task Multi-view Graph Representation Learning Framework
   for Web-scale Recommender Systems](https://arxiv.org/pdf/2005.10110), *Menghan, Wang and Yujie, Lin and Guli, Lin and Keping, Yang and Xiao-ming, Wu.* KDD 2020 | Alibaba | [Search & Recommend]
+
+- [Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/pdf/1909.03602.pdf), *Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang,Xiaobing Liu, Xiwang Yang, Jiliang Tang1.* AAAI 2020 | Bytedance | [Search & Recommend]
 
 - [Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps](https://static.aminer.cn/upload/pdf/917/311/1295/5f03f3b611dc8305622320ce_0.pdf), *Huang, Jizhou and Wang, Haifeng and Fan, Miao and Zhuo, An and Li, Ying.* KDD 2020 | Baidu | [Search & Recommend]
 
@@ -216,6 +231,7 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 
 - [Exact-K Recommendation via Maximal Clique Optimization](https://arxiv.org/abs/1905.07089), *Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu.* KDD 2019 | Alibaba | [Search & Recommend]
 
+
 - [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://dlp-kdd.github.io/dlp-kdd2019/assets/pdf/a12-chen.pdf), *Qiwei Chen, Huan Zhao Wei Li, Pipei Huang, Wenwu Ou.* KDD 2019 | Alibaba | [Search & Recommend]
 
 - [Off-policy Learning for Multiple Loggers](https://www.kdd.org/kdd2019/accepted-papers/view/off-policy-learning-for-multiple-loggers), *Li He, Long Xia, Wei Zeng, Zhi-Ming Ma, Yihong Zhao, Dawei Yin.* KDD 2019 | JD | [Search & Recommend]
@@ -223,6 +239,8 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 - [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf), *Guolin Ke, Zhenhui Xu, Jia Zhang, Jiang ... .* KDD 2019 | Microsoft | [Search & Recommend]
 
 - [NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/pdf/1907.05559.pdf), *Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie.* KDD 2019 | Microsoft | [Search & Recommend]
+
+- [Top-𝐾 Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf), *Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi.* WSDM 2019 | Google | [Search & Recommend]
 
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://dl.acm.org/ft_gateway.cfm?id=3219885&type=pdf), *Grbovic, Mihajlo, and Haibin Cheng.* KDD 2018 | Airbnb | [Search & Recommend]
 
