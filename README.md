@@ -18,6 +18,8 @@
 - [AliMe KG: Domain Knowledge Graph Construction and
 Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Hehong Chen, Guohai Xu, Tian Qiu, Feng Ji, Ji Zhang, Haiqing Chen.* CIKM 2020 | Alibaba | [NLP]  
 
+- [Multi-modal Knowledge Graphs for Recommender Systems](http://zheng-kai.com/paper/cikm_2020_sun.pdf), *Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang,Zhongyuan Wang,Kai Zheng* CIKM 2020 | Meituan | [Search & Recommend]  
+
 - [TCNN: Triple Convolutional Neural Network Models for Retrieval-based Question Answering System in E-commerce.](https://arxiv.org/pdf/2004.10919.pdf), *Shuangyong Song, Chao Wang, Haiqing Chen, Huan Chen.* WWW 2020 | Alibaba | [NLP]
 
 - [Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation.](https://arxiv.org/abs/1906.04473), *Fajie Yuan, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, Yilin Xiong.* WWW 2020 | Tencent | [Search & Recommend]
@@ -133,7 +135,7 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 
 
 ### Meituan
-
+- [Multi-modal Knowledge Graphs for Recommender Systems](http://zheng-kai.com/paper/cikm_2020_sun.pdf), *Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang,Zhongyuan Wang,Kai Zheng* CIKM 2020 | Meituan | [Search & Recommend] 
 
 
 ### Microsoft
@@ -190,6 +192,8 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 - [AliMe KG: Domain Knowledge Graph Construction and
 Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Hehong Chen, Guohai Xu, Tian Qiu, Feng Ji, Ji Zhang, Haiqing Chen.* CIKM 2020 | Alibaba | [NLP]
 
+- [Multi-modal Knowledge Graphs for Recommender Systems](http://zheng-kai.com/paper/cikm_2020_sun.pdf), *Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang,Zhongyuan Wang,Kai Zheng* CIKM 2020 | Meituans | [Search & Recommend]  
+
 - [AliMe KBQA: Question Answering over Structured Knowledge for E-Commerce Customer Service](https://arxiv.org/pdf/1912.05728.pdf), *Feng-Lin Li, Weijia Chen, Qi Huang, Yikun Guo* CCKS 2019 | Alibaba | [NLP]
 
 - [AliMe Assist : An Intelligent Assistant for Creating an Innovative E-commerce Experience](https://arxiv.org/pdf/1801.05032), *Huang, Jizhou and Wang, Haifeng and Fan, Miao and Zhuo, An and Li, Ying.* CIKM 2017 | Alibaba | [NLP]
@@ -228,6 +232,8 @@ Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
 
 - [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236), *Hongyan Tang, Junning  Liu,
 Ming  Zhao, Xudong  Gong.* RecSys 2020 | Tencent | [Search & Recommend]
+
+- [Multi-modal Knowledge Graphs for Recommender Systems](http://zheng-kai.com/paper/cikm_2020_sun.pdf), *Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang,Zhongyuan Wang,Kai Zheng* CIKM 2020 | Meituans | [Search & Recommend]
 
 - [Exact-K Recommendation via Maximal Clique Optimization](https://arxiv.org/abs/1905.07089), *Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu.* KDD 2019 | Alibaba | [Search & Recommend]
 
@@ -291,13 +297,14 @@ Application in E-commerce](https://arxiv.org/pdf/2009.11684), *Feng-Lin Li, Heho
 
 ### AliCoCo
 
-### Baidu Maps
+### AlphaGo
 
+### Baidu Maps
 - [Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps](https://static.aminer.cn/upload/pdf/917/311/1295/5f03f3b611dc8305622320ce_0.pdf), *Feng-Lin Li, Minghui Qiu, Haiqing Chen, Xiongwei Wang, Xing Gao, Jun Huang, Juwei Ren, Zhongzhou Zhao, Weipeng Zhao, Lei Wang, Guwei Jin, Wei Chu.* KDD 2020 | Baidu | [Search & Recommend]
 
 
-### AlphaGo
-
+### Meituan Brain
+- [Multi-modal Knowledge Graphs for Recommender Systems](http://zheng-kai.com/paper/cikm_2020_sun.pdf), *Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang,Zhongyuan Wang,Kai Zheng* CIKM 2020 | Meituans | [Search & Recommend]  
 
 
 
